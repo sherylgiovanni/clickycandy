@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Clicky Candy</string>
+    <string name="score">Skor: </string>
+    <string name="frozen">Sudah terklik!</string>
+    <string name="finished_all_levels">Selamat! Kamu berhasil menyelesaikan semua level! </string>
+    <string name="got_new_high_score">Dan kamu mencetak skor tertinggi yaitu </string>
+    <string name="play_again">Main lagi?</string>
+    <string name="game_over">Game selesai!</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="background_music">Musik latar</string>
+    <string name="bg_music_play">Musik latar akan diputar</string>
+    <string name="bg_music_stop">Musik latar tidak akan diputar</string>
+    <string name="day_night_mode">Mode Pagi/Malam</string>
+    <string name="day_mode_active">Mode pagi aktif</string>
+    <string name="night_mode_active">Mode malam aktif</string>
+    <string name="candy_bouncing_speed">Kecepatan gerakan permen</string>
+    <string name="how_much_speed">Seberapa cepat kamu mau permen bergerak?</string>
+    <string-array name="speed_entries">
+        <item>Cepat</item>
+        <item>Sedang</item>
+        <item>Lambat</item>
+    </string-array>
+    <string name="soundtrack_options">Opsi musik latar</string>
+    <string name="pick_soundtrack">Pilih musik latar yang kamu mau</string>
+    <string-array name="soundtrack_entries">
+        <item>Musik 1</item>
+        <item>Musik 2</item>
+        <item>Musik 3</item>
+    </string-array>
+    <string name="gamestyle_prefs">Preferensi mode game</string>
+    <string name="pick_gamestyle">Pilih mode game yang kamu mau</string>
+    <string-array name="gamestyle_entries">
+        <item>Perkalian</item>
+        <item>Hiragana</item>
+        <item>Melengkapi Kata</item>
+    </string-array>
+    <string name="warning">Peringatan</string>
+    <string name="back_to_menu_confirmation">Kembali ke halaman utama?</string>
+    <string name="exit_confirmation">Apakah kamu yakin mau keluar dari permainan?</string>
+</resources>

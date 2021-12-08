@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Clicky Candy</string>
+    <string name="score">Score: </string>
+    <string name="frozen">Already frozen!</string>
+    <string name="finished_all_levels">You finished all the levels! </string>
+    <string name="got_new_high_score">And you got a new high score of </string>
+    <string name="play_again">Play again?</string>
+    <string name="game_over">Game over!</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="background_music">Background music</string>
+    <string name="bg_music_play">Background music will play</string>
+    <string name="bg_music_stop">Background music will not play</string>
+    <string name="day_night_mode">Day/Night Mode</string>
+    <string name="day_mode_active">Day mode is active</string>
+    <string name="night_mode_active">Night mode is active</string>
+    <string name="candy_bouncing_speed">Candy bouncing speed</string>
+    <string name="how_much_speed">How fast do you want the candy to bounce around?</string>
+    <string-array name="speed_entries">
+        <item>Fast</item>
+        <item>Medium</item>
+        <item>Slow</item>
+    </string-array>
+    <string name="soundtrack_options">Soundtrack options</string>
+    <string name="pick_soundtrack">Pick your preferred soundtrack</string>
+    <string-array name="soundtrack_entries">
+        <item>Track 1</item>
+        <item>Track 2</item>
+        <item>Track 3</item>
+    </string-array>
+    <string name="gamestyle_prefs">Game style preferences</string>
+    <string name="pick_gamestyle">Pick your preferred game style</string>
+    <string-array name="gamestyle_entries">
+        <item>Multiplying</item>
+        <item>Hiragana</item>
+        <item>Missing Letter</item>
+    </string-array>
+    <string name="warning">Warning</string>
+    <string name="back_to_menu_confirmation">Back to main menu?</string>
+    <string name="exit_confirmation">Are you sure you want to quit the game?</string>
+</resources>
